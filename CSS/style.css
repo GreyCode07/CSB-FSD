@@ -1,0 +1,15 @@
+body{
+  background-color: aquamarine;
+}
+p{
+  color: brown;
+  text-align: center;
+}
+h2{
+  color: chartreuse;
+  text-align: left;
+}
+.footer{
+  color: black;
+  text-align: center;
+}
